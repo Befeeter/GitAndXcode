@@ -1,4 +1,4 @@
-// Prueba Edición en servidor y en Local.
+// Sobreescribo en remoto.
 //
 //
 // Prueba de edicion Local y posterior push.
